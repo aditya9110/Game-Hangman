@@ -115,8 +115,9 @@ while flag != -1:
     #o_word = 'TITANIC'
     my_list = []
     o_word = random.choice(m)
-    if o_word
-    i = 0
+    if o_word:
+        i = 0
+        word = o_word
     missing,indices = [],[]
     r =  int(len(word)*0.5)
     while (i < r):
